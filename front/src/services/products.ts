@@ -1,7 +1,9 @@
 import axios from "axios";
 import { IProduct } from "../../interfaces";
+import dotenv from "dotenv";
+dotenv.config();
 
-const axiosApiBack = axios.create({ baseURL: "http://localhost:3002" });
+const axiosApiBack = axios.create({ baseURL: process.env.NEXT_PUBLIC_API_URL });
 
 export const getProductsService = async ():Promise<IProduct[]> => {
    try {

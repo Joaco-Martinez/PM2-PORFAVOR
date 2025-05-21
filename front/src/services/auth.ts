@@ -1,5 +1,7 @@
 import axios from "axios"
-const axiosApiBack = axios.create({ baseURL: "http://localhost:3002" });
+import dotenv from "dotenv";
+dotenv.config();
+const axiosApiBack = axios.create({ baseURL: process.env.NEXT_PUBLIC_API_URL });
 
 interface IformInput {
     name: string;
