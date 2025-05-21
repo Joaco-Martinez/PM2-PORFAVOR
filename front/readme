@@ -1,0 +1,114 @@
+
+
+[
+    "PRODUCTOS DEL BACKEND",
+
+	{
+		"id": 1,
+		"name": "iPhone 11",
+		"description": "Capture stunning moments with the dual-camera system and enjoy exceptional performance with the iPhone 11.",
+		"price": 699,
+		"stock": 10,
+		"image": "https://pngimg.com/d/iphone_11_PNG38.png",
+		"categoryId": 1
+	},
+	{
+		"id": 2,
+		"name": "MacBook Air",
+		"description": "Lightweight design meets powerful performance. Perfect for productivity and creativity.",
+		"price": 999,
+		"stock": 10,
+		"image": "https://maximstore.com/_next/image?url=https%3A%2F%2Fback.maximstore.com%2Fstatic%2Fimages%2Ff4d07cab-bc5e-4391-80af-b39a37886d73.png&w=3840&q=75",
+		"categoryId": 2
+	},
+	{
+		"id": 3,
+		"name": "iPad Pro",
+		"description": "Stunning display and powerful performance make this the ultimate tablet for work and play.",
+		"price": 799,
+		"stock": 10,
+		"image": "https://www.pngarts.com/files/5/IPad-Pro-PNG-High-Quality-Image.png",
+		"categoryId": 3
+	},
+	{
+		"id": 4,
+		"name": "Apple Watch Series 6",
+		"description": "Monitor your health, track your workouts, and stay connected with the sleek Apple Watch.",
+		"price": 399,
+		"stock": 10,
+		"image": "https://www.pngarts.com/files/8/Black-Apple-Watch-Series-6-Photo.png",
+		"categoryId": 4
+	},
+	{
+		"id": 5,
+		"name": "AirPods Pro",
+		"description": "Experience premium sound with active noise cancellation and a customizable fit.",
+		"price": 249,
+		"stock": 10,
+		"image": "https://rechargeelectronics.com/wp-content/uploads/2020/06/2020-0613-AIRPODS-PRO-WEB.png",
+		"categoryId": 5
+	},
+	{
+		"id": 6,
+		"name": "HomePod mini",
+		"description": "Smart speaker with great sound and Siri built in. Control your home with your voice.",
+		"price": 99,
+		"stock": 10,
+		"image": "https://www.apple.com/v/homepod-mini/j/images/overview/hero_homepod_blue__eobtqej8h9me_large.png",
+		"categoryId": 6
+	},
+	{
+		"id": 7,
+		"name": "iPhone 15 Pro Max",
+		"description": "The latest iPhone with A17 Pro chip, improved camera, and titanium design.",
+		"price": 1199,
+		"stock": 15,
+		"image": "https://maximstore.com/_next/image?url=https%3A%2F%2Fback.maximstore.com%2Fstatic%2Fimages%2Ffa213372-4456-489b-a2b3-9293592ddf43.png&w=3840&q=75",
+		"categoryId": 1
+	},
+	{
+		"id": 8,
+		"name": "MacBook Pro M3",
+		"description": "Extreme performance with the new M3 chip and Liquid Retina XDR display.",
+		"price": 1999,
+		"stock": 8,
+		"image": "https://i0.wp.com/jamacbook.com/wp-content/uploads/2024/07/Macbook-M3-Max-2.png?fit=600%2C600&ssl=1",
+		"categoryId": 2
+	},
+	{
+		"id": 9,
+		"name": "Apple Vision Pro",
+		"description": "Revolutionary spatial computing with augmented reality and immersive interface.",
+		"price": 3499,
+		"stock": 5,
+		"image": "https://png.pngtree.com/png-clipart/20230613/ourmid/pngtree-apple-vision-png-image_7134823.png",
+		"categoryId": 7
+	},
+	{
+		"id": 10,
+		"name": "Apple Pencil (2nd gen)",
+		"description": "Perfect for taking notes, drawing, and navigating precisely on compatible iPads.",
+		"price": 129,
+		"stock": 20,
+		"image": "https://m.media-amazon.com/images/G/01/img15/brawner/ApplePencil2gen._CB455269077_.png",
+		"categoryId": 3
+	},
+	{
+		"id": 11,
+		"name": "Magic Keyboard",
+		"description": "Compact and rechargeable keyboard with precise and comfortable typing experience.",
+		"price": 99,
+		"stock": 12,
+		"image": "https://www.macstation.com.ar/web/image/product.image/6446/image_1024/Apple%20Magic%20Keyboard%20Touch%20ID%20-%20Espa%C3%B1ol?unique=048be49",
+		"categoryId": 8
+	},
+	{
+		"id": 12,
+		"name": "Apple TV 4K",
+		"description": "Enjoy 4K HDR content with Dolby Atmos sound and access to Apple TV+.",
+		"price": 179,
+		"stock": 9,
+		"image": "https://back.maximstore.com/static/images/de0ae8c0-a0a9-46dd-879d-5d504f4267fe.png",
+		"categoryId": 9
+	}
+]

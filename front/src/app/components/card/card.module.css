@@ -1,0 +1,51 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: auto;
+    height: 30%;
+    border: 0.1vw solid #ccc;
+    border-radius: 1vw;
+    padding: 1vw;
+    margin-bottom: 1vw;
+}
+
+.imagen {
+    width: 2vw;
+    height: 2vw;
+    border-radius: 0.3vw;
+}
+
+.notification {
+    position: relative;
+    padding: 1.5vw;
+    background-color: #f0f0f0;
+    border: 0.1vw solid #ccc;
+    color: black;
+    border-radius: 0.8vw;
+    margin-top: 1.5vw;
+    max-width: 30vw; 
+}
+
+.closeButton {
+    top: 0.5vw;
+    right: 0.5vw;
+    border: none;
+    background: transparent;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+}
+
+.cerrarNotificacion {
+    top: -0.3vw;
+    right: -0.3vw;
+    border: none;
+    background: transparent;
+    font-weight: bold;
+    font-size: 2vw;
+    cursor: pointer;
+    color: red;
+}
+
